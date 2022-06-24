@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "title": "Deneme 1 ",
+      "description": "Hey! First Stream",
+      "userId": "112486282188972622206",
+      "id": 1
+    },
+    {
+      "title": "Can ",
+      "description": "Deneme Yayını",
+      "userId": "112486282188972622206",
+      "id": 2
+    },
+    {
+      "title": "4214",
+      "description": "41",
+      "userId": "112486282188972622206",
+      "id": 3
+    }
+  ]
+}
